@@ -1,5 +1,5 @@
 # About me 👋
 
-- I’m currently working on my thesis, where I deploy ML algorithms' predictive accuracy to measure polarization inside the US Congress
-- I am enjoying the learning journey in using implementing machine learning solutions to a wide range of task
-- But most important I am looking for my first Data Science reletad job to tackle real life problems with effective solutions
+- I am currently working on my thesis, in which I apply machine learning algorithms to measure political polarization within the US Congress.
+- I enjoy implementing machine learning solutions for a wide range of tasks.
+- I am eager to secure an entry-level data science role where I can apply my skills to solve impactful, real-world challenges
